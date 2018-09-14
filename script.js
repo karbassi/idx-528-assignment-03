@@ -12,3 +12,4 @@ fruits.push(
     "Cherries",
 );
 console.log(fruits.length);
+console.log(fruits[0]);
