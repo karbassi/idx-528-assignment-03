@@ -27,3 +27,4 @@ var animal_b = {
     speak: "Wooooof!",
 };
 animal_b.is_outdoor = true;
+console.log(animal_b.name, animal_b.age);
