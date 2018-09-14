@@ -11,3 +11,4 @@ fruits.push(
     "Bananas",
     "Cherries",
 );
+console.log(fruits.length);
