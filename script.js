@@ -14,3 +14,15 @@ fruits.push(
 console.log(fruits.length);
 console.log(fruits[0]);
 console.log(fruits[fruits.length - 1]);
+var animal_a = {
+    type: "cat",
+    age: 6,
+    name: "Fry",
+    speak: "Meow!",
+};
+var animal_b = {
+    type: "dog",
+    age: 3,
+    name: "Mabel",
+    speak: "Wooooof!",
+};
