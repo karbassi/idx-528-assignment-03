@@ -26,3 +26,4 @@ var animal_b = {
     name: "Mabel",
     speak: "Wooooof!",
 };
+animal_b.is_outdoor = true;
